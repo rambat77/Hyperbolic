@@ -106,4 +106,3 @@ rm -rf ~/chatbot-app
 
 ---
 
-Let me know if you'd like this uploaded directly to a GitHub repo or packaged in a `.md` file!
